@@ -1,0 +1,9 @@
+  import	java.io.*;
+  import	java.net.*;
+  import	java.util.*;
+
+  pulbic class NetClock{
+   public static void main(String[] args){
+   
+   }
+  }

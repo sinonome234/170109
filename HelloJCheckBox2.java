@@ -11,7 +11,7 @@ HelloJCheckBox2(String title){
 
     pl.setLayout(new GridLayout(3,1));
 
-    JCheckBox ck = new JCheckBox("kkk");
+    JCheckBox ck = new JCheckBox("kkk",true);
     JCheckBox ck2 = new JCheckBox("ttt");
     JCheckBox ck3 = new JCheckBox("rrr");
 
